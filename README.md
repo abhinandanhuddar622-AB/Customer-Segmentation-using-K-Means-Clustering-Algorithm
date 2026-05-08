@@ -91,7 +91,7 @@ customer-segmentation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/abhinandanhuddar622-AB/Customer-Segmentation-using-K-Means-Clustering-Algorithm.git
 cd customer-segmentation
 ```
 
@@ -201,7 +201,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 Abhinandan V Huddar  
 📧 abhinandanhuddar622@gmail.com  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a)) | [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a) | [GitHub](https://github.com/your-username)
 
 ---
 
