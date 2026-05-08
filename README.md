@@ -201,7 +201,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 Abhinandan V Huddar  
 📧 abhinandanhuddar622@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a) | [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a) | [GitHub](https://github.com/abhinandanhuddar622-AB)
 
 ---
 
