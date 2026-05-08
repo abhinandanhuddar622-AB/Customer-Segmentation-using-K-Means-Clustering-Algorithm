@@ -199,9 +199,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 🙋 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+Abhinandan V Huddar  
+📧 abhinandanhuddar622@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a)) | [GitHub](https://github.com/your-username)
 
 ---
 
