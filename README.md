@@ -191,12 +191,6 @@ predict_segment(age=28, annual_income=70, spending_score=80)
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙋 Author
 
 Abhinandan V Huddar  
