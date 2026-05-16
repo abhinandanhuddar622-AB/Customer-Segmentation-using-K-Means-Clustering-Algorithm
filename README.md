@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange?logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 > Segment mall customers into meaningful groups based on **Age**, **Annual Income**, and **Spending Score** using K-Means, Hierarchical, and DBSCAN clustering — enabling targeted marketing strategies.
