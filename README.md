@@ -20,7 +20,6 @@
 - [Visualizations](#visualizations)
 - [Business Insights](#business-insights)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
